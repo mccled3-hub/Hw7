@@ -9,6 +9,10 @@ h1 {
   color: blue;
 }
 
+h1, p{
+  font-family: serif;
+}
+
 img {
   width: 100vw;
   height: auto; 
@@ -45,6 +49,7 @@ a:hover{
 a:active{
   color: orange;
 }
+
 
 
 
